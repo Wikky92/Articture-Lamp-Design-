@@ -1,0 +1,38 @@
+﻿                   MASS PROPERTIES OF THE PART TOP_SWITCH_PART
+
+                         VOLUME =  1.8414330e+03 MM^3
+                   SURFACE AREA =  2.7941865e+03 MM^2
+                        DENSITY =  1.2100000e-06 KILOGRAM / MM^3
+                           MASS =  2.2281340e-03 KILOGRAM 
+
+        CENTER OF GRAVITY with respect to PRT_CSYS_DEF coordinate frame:
+X   Y   Z           0.0000000e+00  1.0938390e+00 -2.5078434e-04  MM
+
+    INERTIA with respect to PRT_CSYS_DEF coordinate frame:  (KILOGRAM * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         1.7060310e-01  0.0000000e+00  1.9618019e-07
+Iyx Iyy Iyz         0.0000000e+00  3.5394355e-01  0.0000000e+00
+Izx Izy Izz         1.9618019e-07  0.0000000e+00  1.9183570e-01
+
+   INERTIA at CENTER OF GRAVITY with respect to PRT_CSYS_DEF coordinate frame:
+                                                            (KILOGRAM * MM^2)   
+INERTIA TENSOR:
+Ixx Ixy Ixz         1.6793717e-01  0.0000000e+00  1.9618551e-07
+Iyx Iyy Iyz         0.0000000e+00  3.5394355e-01 -6.1072913e-07
+Izx Izy Izz         1.9618551e-07 -6.1072913e-07  1.8916977e-01
+
+                PRINCIPAL MOMENTS OF INERTIA:  (KILOGRAM * MM^2)
+I1  I2  I3          1.6793717e-01  1.8916977e-01  3.5394355e-01
+
+        ROTATION MATRIX from PRT_CSYS_DEF orientation to PRINCIPAL AXES:
+                       1.00000        0.00001        0.00000
+                       0.00000        0.00000       -1.00000
+                      -0.00001        1.00000        0.00000
+
+   ROTATION ANGLES from PRT_CSYS_DEF orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z   90.000          0.000          0.000 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          8.6816599e+00  9.2141488e+00  1.2603650e+01  MM
+

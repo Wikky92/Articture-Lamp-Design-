@@ -1,0 +1,14 @@
+﻿Accuracy Conflict Report For Assembly TOP_CENTER_PART.
+
+1. Models in the list may have accuracy set to absolute or relative accuracy.
+2. When the model's accuracy is relative, an absolute accuracy value 
+is calculated based on the model's relative accuracy.
+3. The following list shows the absolute accuracy value for each model 
+that is actually used in geometry calculations.
+
+       Generic Model Name           Abs Accuracy Value  Unit Name
+TOP_CENTER_PART.ASM                   0.030461580       mm
+TOP_CENTER_PART_12.PRT                0.021308751       mm
+TOP_CENTER_PART_WRK.PRT               0.027512949       mm
+MOLD_VOL_1_CORE_1.PRT                 0.030461580       mm
+MOLD_VOL_1_CAVITY_1.PRT               0.030461580       mm

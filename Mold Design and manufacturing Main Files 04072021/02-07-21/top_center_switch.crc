@@ -1,0 +1,225 @@
+﻿  MODEL TOP_CENTER_SWITCH :
+ 
+
+  11 CIRCULAR REFERENCE LOOPS FOUND
+ 
+
+   LOOP #  1
+
+   Depth of loop is 5
+
+Feature number 17 (REFPART CUTOUT, id = 9766) 
+  in model TOP_CENTER_SWITCH refers to:
+
+Feature number 25 (COMPONENT, id = 12643) 
+  in model TOP_CENTER_SWITCH must follow after:
+
+Feature number 24 (RUNNER, id = 12168) 
+  in model TOP_CENTER_SWITCH refers to:
+
+Feature number 18 (SPLIT, id = 9765) 
+  in model TOP_CENTER_SWITCH must follow after:
+
+Feature number 17 (REFPART CUTOUT, id = 9766) 
+  in model TOP_CENTER_SWITCH - circle closed.
+
+
+   LOOP #  2
+
+   Depth of loop is 5
+
+Feature number 17 (REFPART CUTOUT, id = 9766) 
+  in model TOP_CENTER_SWITCH refers to:
+
+Feature number 31 (COMPONENT, id = 12671) 
+  in model TOP_CENTER_SWITCH must follow after:
+
+Feature number 24 (RUNNER, id = 12168) 
+  in model TOP_CENTER_SWITCH refers to:
+
+Feature number 18 (SPLIT, id = 9765) 
+  in model TOP_CENTER_SWITCH must follow after:
+
+Feature number 17 (REFPART CUTOUT, id = 9766) 
+  in model TOP_CENTER_SWITCH - circle closed.
+
+
+   LOOP #  3
+
+   Depth of loop is 5
+
+Feature number 17 (REFPART CUTOUT, id = 9766) 
+  in model TOP_CENTER_SWITCH refers to:
+
+Feature number 35 (COMPONENT, id = 12677) 
+  in model TOP_CENTER_SWITCH must follow after:
+
+Feature number 24 (RUNNER, id = 12168) 
+  in model TOP_CENTER_SWITCH refers to:
+
+Feature number 18 (SPLIT, id = 9765) 
+  in model TOP_CENTER_SWITCH must follow after:
+
+Feature number 17 (REFPART CUTOUT, id = 9766) 
+  in model TOP_CENTER_SWITCH - circle closed.
+
+
+   LOOP #  4
+
+   Depth of loop is 5
+
+Feature number 17 (REFPART CUTOUT, id = 9766) 
+  in model TOP_CENTER_SWITCH refers to:
+
+Feature number 36 (COMPONENT, id = 12968) 
+  in model TOP_CENTER_SWITCH must follow after:
+
+Feature number 24 (RUNNER, id = 12168) 
+  in model TOP_CENTER_SWITCH refers to:
+
+Feature number 18 (SPLIT, id = 9765) 
+  in model TOP_CENTER_SWITCH must follow after:
+
+Feature number 17 (REFPART CUTOUT, id = 9766) 
+  in model TOP_CENTER_SWITCH - circle closed.
+
+
+   LOOP #  5
+
+   Depth of loop is 5
+
+Feature number 17 (REFPART CUTOUT, id = 9766) 
+  in model TOP_CENTER_SWITCH refers to:
+
+Feature number 38 (COMPONENT, id = 12974) 
+  in model TOP_CENTER_SWITCH must follow after:
+
+Feature number 24 (RUNNER, id = 12168) 
+  in model TOP_CENTER_SWITCH refers to:
+
+Feature number 18 (SPLIT, id = 9765) 
+  in model TOP_CENTER_SWITCH must follow after:
+
+Feature number 17 (REFPART CUTOUT, id = 9766) 
+  in model TOP_CENTER_SWITCH - circle closed.
+
+
+   LOOP #  6
+
+   Depth of loop is 5
+
+Feature number 17 (REFPART CUTOUT, id = 9766) 
+  in model TOP_CENTER_SWITCH refers to:
+
+Feature number 39 (COMPONENT, id = 13175) 
+  in model TOP_CENTER_SWITCH must follow after:
+
+Feature number 24 (RUNNER, id = 12168) 
+  in model TOP_CENTER_SWITCH refers to:
+
+Feature number 18 (SPLIT, id = 9765) 
+  in model TOP_CENTER_SWITCH must follow after:
+
+Feature number 17 (REFPART CUTOUT, id = 9766) 
+  in model TOP_CENTER_SWITCH - circle closed.
+
+
+   LOOP #  7
+
+   Depth of loop is 5
+
+Feature number 17 (REFPART CUTOUT, id = 9766) 
+  in model TOP_CENTER_SWITCH refers to:
+
+Feature number 43 (COMPONENT, id = 13657) 
+  in model TOP_CENTER_SWITCH must follow after:
+
+Feature number 24 (RUNNER, id = 12168) 
+  in model TOP_CENTER_SWITCH refers to:
+
+Feature number 18 (SPLIT, id = 9765) 
+  in model TOP_CENTER_SWITCH must follow after:
+
+Feature number 17 (REFPART CUTOUT, id = 9766) 
+  in model TOP_CENTER_SWITCH - circle closed.
+
+
+   LOOP #  8
+
+   Depth of loop is 5
+
+Feature number 17 (REFPART CUTOUT, id = 9766) 
+  in model TOP_CENTER_SWITCH refers to:
+
+Feature number 45 (COMPONENT, id = 13662) 
+  in model TOP_CENTER_SWITCH must follow after:
+
+Feature number 24 (RUNNER, id = 12168) 
+  in model TOP_CENTER_SWITCH refers to:
+
+Feature number 18 (SPLIT, id = 9765) 
+  in model TOP_CENTER_SWITCH must follow after:
+
+Feature number 17 (REFPART CUTOUT, id = 9766) 
+  in model TOP_CENTER_SWITCH - circle closed.
+
+
+   LOOP #  9
+
+   Depth of loop is 5
+
+Feature number 17 (REFPART CUTOUT, id = 9766) 
+  in model TOP_CENTER_SWITCH refers to:
+
+Feature number 49 (COMPONENT, id = 13668) 
+  in model TOP_CENTER_SWITCH must follow after:
+
+Feature number 24 (RUNNER, id = 12168) 
+  in model TOP_CENTER_SWITCH refers to:
+
+Feature number 18 (SPLIT, id = 9765) 
+  in model TOP_CENTER_SWITCH must follow after:
+
+Feature number 17 (REFPART CUTOUT, id = 9766) 
+  in model TOP_CENTER_SWITCH - circle closed.
+
+
+   LOOP #  10
+
+   Depth of loop is 5
+
+Feature number 17 (REFPART CUTOUT, id = 9766) 
+  in model TOP_CENTER_SWITCH refers to:
+
+Feature number 50 (COMPONENT, id = 13672) 
+  in model TOP_CENTER_SWITCH must follow after:
+
+Feature number 24 (RUNNER, id = 12168) 
+  in model TOP_CENTER_SWITCH refers to:
+
+Feature number 18 (SPLIT, id = 9765) 
+  in model TOP_CENTER_SWITCH must follow after:
+
+Feature number 17 (REFPART CUTOUT, id = 9766) 
+  in model TOP_CENTER_SWITCH - circle closed.
+
+
+   LOOP #  11
+
+   Depth of loop is 5
+
+Feature number 17 (REFPART CUTOUT, id = 9766) 
+  in model TOP_CENTER_SWITCH refers to:
+
+Feature number 54 (COMPONENT, id = 13681) 
+  in model TOP_CENTER_SWITCH must follow after:
+
+Feature number 24 (RUNNER, id = 12168) 
+  in model TOP_CENTER_SWITCH refers to:
+
+Feature number 18 (SPLIT, id = 9765) 
+  in model TOP_CENTER_SWITCH must follow after:
+
+Feature number 17 (REFPART CUTOUT, id = 9766) 
+  in model TOP_CENTER_SWITCH - circle closed.
+

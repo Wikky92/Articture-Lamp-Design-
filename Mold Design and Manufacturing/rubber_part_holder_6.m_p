@@ -1,0 +1,38 @@
+﻿                MASS PROPERTIES OF THE PART RUBBER_PART_HOLDER_6
+
+                         VOLUME =  3.0058299e+03 MM^3
+                   SURFACE AREA =  5.4191651e+03 MM^2
+                        DENSITY =  1.2100000e-06 KILOGRAM / MM^3
+                           MASS =  3.6370542e-03 KILOGRAM 
+
+      CENTER OF GRAVITY with respect to _RUBBER_PART_HOLD coordinate frame:
+X   Y   Z           0.0000000e+00 -6.7997167e-01  0.0000000e+00  MM
+
+ INERTIA with respect to _RUBBER_PART_HOLD coordinate frame:  (KILOGRAM * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         1.2245796e+00  0.0000000e+00  3.1075387e-07
+Iyx Iyy Iyz         0.0000000e+00  4.3001727e+00  0.0000000e+00
+Izx Izy Izz         3.1075387e-07  0.0000000e+00  3.0868550e+00
+
+INERTIA at CENTER OF GRAVITY with respect to _RUBBER_PART_HOLD coordinate frame:
+                                                               (KILOGRAM * MM^2)
+INERTIA TENSOR:
+Ixx Ixy Ixz         1.2228979e+00  0.0000000e+00  3.1075387e-07
+Iyx Iyy Iyz         0.0000000e+00  4.3001727e+00  0.0000000e+00
+Izx Izy Izz         3.1075387e-07  0.0000000e+00  3.0851734e+00
+
+                PRINCIPAL MOMENTS OF INERTIA:  (KILOGRAM * MM^2)
+I1  I2  I3          1.2228979e+00  3.0851734e+00  4.3001727e+00
+
+      ROTATION MATRIX from _RUBBER_PART_HOLD orientation to PRINCIPAL AXES:
+                       1.00000        0.00000        0.00000
+                       0.00000        0.00000       -1.00000
+                       0.00000        1.00000        0.00000
+
+ ROTATION ANGLES from _RUBBER_PART_HOLD orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z   90.000          0.000          0.000 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          1.8336659e+01  2.9124931e+01  3.4384923e+01  MM
+

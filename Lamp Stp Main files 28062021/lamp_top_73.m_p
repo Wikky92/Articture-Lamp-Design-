@@ -1,0 +1,38 @@
+﻿                     MASS PROPERTIES OF THE PART LAMP_TOP_73
+
+                         VOLUME =  1.2332792e+05 MM^3
+                   SURFACE AREA =  1.3201154e+05 MM^2
+                        DENSITY =  1.0200000e-06 KILOGRAM / MM^3
+                           MASS =  1.2579447e-01 KILOGRAM 
+
+        CENTER OF GRAVITY with respect to _LAMP_TOP_73 coordinate frame:
+X   Y   Z          -3.7897205e-01 -4.7854876e+00 -2.4944092e-03  MM
+
+    INERTIA with respect to _LAMP_TOP_73 coordinate frame:  (KILOGRAM * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         2.6662583e+02 -1.0021555e+00 -2.0707871e-02
+Iyx Iyy Iyz        -1.0021555e+00  1.1115343e+03 -5.2257783e-03
+Izx Izy Izz        -2.0707871e-02 -5.2257783e-03  8.6808428e+02
+
+   INERTIA at CENTER OF GRAVITY with respect to _LAMP_TOP_73 coordinate frame:
+                                                            (KILOGRAM * MM^2)   
+INERTIA TENSOR:
+Ixx Ixy Ixz         2.6374502e+02 -7.7401887e-01 -2.0588956e-02
+Iyx Iyy Iyz        -7.7401887e-01  1.1115162e+03 -3.7241741e-03
+Izx Izy Izz        -2.0588956e-02 -3.7241741e-03  8.6518541e+02
+
+                PRINCIPAL MOMENTS OF INERTIA:  (KILOGRAM * MM^2)
+I1  I2  I3          2.6374432e+02  8.6518541e+02  1.1115169e+03
+
+        ROTATION MATRIX from _LAMP_TOP_73 orientation to PRINCIPAL AXES:
+                       1.00000       -0.00003        0.00091
+                       0.00091        0.00002       -1.00000
+                       0.00003        1.00000        0.00002
+
+   ROTATION ANGLES from _LAMP_TOP_73 orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z   89.999          0.052          0.000 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          4.5788959e+01  8.2932319e+01  9.3999870e+01  MM
+

@@ -1,0 +1,27 @@
+﻿Accuracy Conflict Report For Assembly RUBBER_PAD.
+
+1. Models in the list may have accuracy set to absolute or relative accuracy.
+2. When the model's accuracy is relative, an absolute accuracy value 
+is calculated based on the model's relative accuracy.
+3. The following list shows the absolute accuracy value for each model 
+that is actually used in geometry calculations.
+
+       Generic Model Name           Abs Accuracy Value  Unit Name
+RUBBER_PAD.ASM                        0.026621718       mm
+RUBBER_PAD_3.PRT                      0.002167967       mm
+BLOCK_CORE_RUBBER_PAD.PRT             0.009559634       mm
+STRACK_W23_10_40_17_GUIDE_PILL.PRT    0.004344938       mm
+MOUNTING_CORE_PLATE_RUBBER_PAD.PRT    0.022435282       mm
+DIN_912-M8X1-40-8_8.PRT               0.005139833       mm
+DIN_912-M8X1-30-8_8.PRT               0.004221588       mm
+INJECTOR_PIECE_FOR_RBBER_PAD.PRT      0.009001383       mm
+BLOCK_CAVITY_RUBBER_PAD1.PRT          0.010306312       mm
+BLOCK_CAVITY_RUBBER_PAD2.PRT          0.010306312       mm
+DIN_912-M8X1-45-8_8.PRT               0.005609588       mm
+MOUNTING_CAVI_PLATE_RUBBER_PAD.PRT    0.022510922       mm
+DIN_912-M8X1-55-8_8.PRT               0.006562828       mm
+EJECTOR_PIN_6_100MM.PRT               0.005610100       mm
+EJECTOR_PLATE_FOR_RUBBER_PAD.PRT      0.011265289       mm
+RUBBER_PAD_WRK.PRT                    0.013108185       mm
+MOLD_VOL_1_CORE_RUBBER_PAD.PRT        0.015765918       mm
+MOLD_VOL_1_CAVITY_RUBBER_PAD.PRT      0.015821874       mm

@@ -1,0 +1,25 @@
+﻿Accuracy Conflict Report For Assembly TOP_CENTER_SWITCH.
+
+1. Models in the list may have accuracy set to absolute or relative accuracy.
+2. When the model's accuracy is relative, an absolute accuracy value 
+is calculated based on the model's relative accuracy.
+3. The following list shows the absolute accuracy value for each model 
+that is actually used in geometry calculations.
+
+       Generic Model Name           Abs Accuracy Value  Unit Name
+TOP_CENTER_SWITCH.ASM                 0.031415933       mm
+TOP_CENTER_SWITCH_1.PRT               0.006804084       mm
+EJECTOR_PIN_6_100MM.PRT               0.005610100       mm
+STRACK_W23_10_40_17_GUIDE_PILL.PRT    0.004344938       mm
+EJECTOR_PLATE_FOR_SWITCH_MOLD.PRT     0.017181862       mm
+BLOCK_CAVITY_PILLAR.PRT               0.017733901       mm
+MOUNTING_CAVITY_PLATE.PRT             0.029944300       mm
+DIN_912-M10X1-55-8_8.PRT              0.006882311       mm
+BLOCK_CORE_PILLAR_TOP_SWITCH.PRT      0.017733901       mm
+DIN_912-M10X1-45-8_8.PRT              0.005947030       mm
+MOUNTING_CORE_PLATE_TOP_SWITCH.PRT    0.029944300       mm
+DIN_912-M10X1-35-8_8.PRT              0.005037147       mm
+TOP_CENTER_SWITCH_REF_5.PRT           0.011187633       mm
+TOP_CENTER_SWITCH_WRK_1.PRT           0.018698855       mm
+MOLD_VOL_1_CORE_2.PRT                 0.021632858       mm
+MOLD_VOL_1_CAVITY_2.PRT               0.021643082       mm

@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"32-14052013-071293";"";
+"TraceParts.PartVersion";"1.1.0";"";
+"STANDARD";"DIN 16761";"";
+"TraceParts.PartTitle";"Stepped guide pillar with centering spigot DIN 16761";"";
+"TraceParts.InstanceId";"32-14052013-07129336NNSWI1P8YTCEP7IQZATBAMG";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
+"TraceParts.ClassPath";"/S_DIN/C25/C25.120/C25.120.030/";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Stepped guide pillar with centering spigot DIN 16761, DIN 16761-12-25-16";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";

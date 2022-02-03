@@ -1,0 +1,38 @@
+﻿                        MASS PROPERTIES OF THE PART TAG_2
+
+                         VOLUME =  9.4201660e+02 MM^3
+                   SURFACE AREA =  1.7991485e+03 MM^2
+                        DENSITY =  7.9000000e-06 KILOGRAM / MM^3
+                           MASS =  7.4419311e-03 KILOGRAM 
+
+           CENTER OF GRAVITY with respect to _TAG_2 coordinate frame:
+X   Y   Z           2.4601940e-02  9.1414672e-01 -1.5922091e-04  MM
+
+       INERTIA with respect to _TAG_2 coordinate frame:  (KILOGRAM * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         5.5693553e-02 -2.7462891e-05 -2.2768348e-05
+Iyx Iyy Iyz        -2.7462891e-05  3.1443356e+00  1.5692589e-07
+Izx Izy Izz        -2.2768348e-05  1.5692589e-07  3.1094859e+00
+
+      INERTIA at CENTER OF GRAVITY with respect to _TAG_2 coordinate frame:
+                                                         (KILOGRAM * MM^2)      
+INERTIA TENSOR:
+Ixx Ixy Ixz         4.9474597e-02  1.3990452e-04 -2.2797499e-05
+Iyx Iyy Iyz         1.3990452e-04  3.1443311e+00 -9.2625664e-07
+Izx Izy Izz        -2.2797499e-05 -9.2625664e-07  3.1032624e+00
+
+                PRINCIPAL MOMENTS OF INERTIA:  (KILOGRAM * MM^2)
+I1  I2  I3          4.9474590e-02  3.1032624e+00  3.1443311e+00
+
+           ROTATION MATRIX from _TAG_2 orientation to PRINCIPAL AXES:
+                       1.00000       -0.00001       -0.00005
+                      -0.00005        0.00002       -1.00000
+                       0.00001        1.00000        0.00002
+
+      ROTATION ANGLES from _TAG_2 orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z   89.999          0.000          0.000 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          2.5783881e+00  2.0420503e+01  2.0555181e+01  MM
+

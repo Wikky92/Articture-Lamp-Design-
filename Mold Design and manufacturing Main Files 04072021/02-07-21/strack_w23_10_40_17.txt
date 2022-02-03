@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"165709";"";
+"TraceParts.PartVersion";"1.0.7";"";
+"SUPPLIER";"STRACK NORMALIEN";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"32-22032013-060316";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"W23 Guide pillar";"";
+"TraceParts.InstanceId";"32-22032013-06031696B3P31BX029748N4XO2YTAER";"";
+"TraceParts.PartTitle";"W23 Guide pillar";"";
+"TraceParts.PartStatusId";"";"";
+"NOTE";"W23 - 10 - 40 - 17";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.ClassPath";"/F_STRACK/STRACK.200/STRACK.200.100/STRACK.200.100.100/STRACK.200.100.100.100/";"";

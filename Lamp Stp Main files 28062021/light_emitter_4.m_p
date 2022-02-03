@@ -1,0 +1,38 @@
+﻿                   MASS PROPERTIES OF THE PART LIGHT_EMITTER_4
+
+                         VOLUME =  5.4337320e+01 MM^3
+                   SURFACE AREA =  1.3992400e+02 MM^2
+                        DENSITY =  1.2100000e-06 KILOGRAM / MM^3
+                           MASS =  6.5748158e-05 KILOGRAM 
+
+      CENTER OF GRAVITY with respect to _LIGHT_EMITTER_4 coordinate frame:
+X   Y   Z           0.0000000e+00  1.4854947e+00  6.3057864e-01  MM
+
+  INERTIA with respect to _LIGHT_EMITTER_4 coordinate frame:  (KILOGRAM * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         6.3634188e-04  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  5.3545787e-04 -9.4130204e-05
+Izx Izy Izz         0.0000000e+00 -9.4130204e-05  2.8037128e-04
+
+ INERTIA at CENTER OF GRAVITY with respect to _LIGHT_EMITTER_4 coordinate frame:
+                                                              (KILOGRAM * MM^2) 
+INERTIA TENSOR:
+Ixx Ixy Ixz         4.6511238e-04  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  5.0931446e-04 -3.2542508e-05
+Izx Izy Izz         0.0000000e+00 -3.2542508e-05  1.3528518e-04
+
+                PRINCIPAL MOMENTS OF INERTIA:  (KILOGRAM * MM^2)
+I1  I2  I3          1.3247492e-04  4.6511238e-04  5.1212472e-04
+
+      ROTATION MATRIX from _LIGHT_EMITTER_4 orientation to PRINCIPAL AXES:
+                       0.00000        1.00000        0.00000
+                       0.08604        0.00000        0.99629
+                       0.99629        0.00000       -0.08604
+
+ ROTATION ANGLES from _LIGHT_EMITTER_4 orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z  -94.936          0.000        -90.000 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          1.4194662e+00  2.6597276e+00  2.7909116e+00  MM
+

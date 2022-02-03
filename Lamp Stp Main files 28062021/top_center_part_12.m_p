@@ -1,0 +1,38 @@
+﻿                 MASS PROPERTIES OF THE PART TOP_CENTER_PART_12
+
+                         VOLUME =  2.6076759e+04 MM^3
+                   SURFACE AREA =  2.9696654e+04 MM^2
+                        DENSITY =  1.0200000e-06 KILOGRAM / MM^3
+                           MASS =  2.6598294e-02 KILOGRAM 
+
+      CENTER OF GRAVITY with respect to _TOP_CENTER_PART_ coordinate frame:
+X   Y   Z           2.3941230e+00  5.2029809e-01  1.5391053e-04  MM
+
+ INERTIA with respect to _TOP_CENTER_PART_ coordinate frame:  (KILOGRAM * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         9.7943625e+00 -7.1851356e-02  3.2914868e-04
+Iyx Iyy Iyz        -7.1851356e-02  8.9918091e+01  4.8626100e-06
+Izx Izy Izz         3.2914868e-04  4.8626100e-06  8.0303673e+01
+
+INERTIA at CENTER OF GRAVITY with respect to _TOP_CENTER_PART_ coordinate frame:
+                                                               (KILOGRAM * MM^2)
+INERTIA TENSOR:
+Ixx Ixy Ixz         9.7871621e+00 -3.8718988e-02  3.3894964e-04
+Iyx Iyy Iyz        -3.8718988e-02  8.9765634e+01  6.9925842e-06
+Izx Izy Izz         3.3894964e-04  6.9925842e-06  8.0144016e+01
+
+                PRINCIPAL MOMENTS OF INERTIA:  (KILOGRAM * MM^2)
+I1  I2  I3          9.7871433e+00  8.0144016e+01  8.9765653e+01
+
+      ROTATION MATRIX from _TOP_CENTER_PART_ orientation to PRINCIPAL AXES:
+                       1.00000        0.00000        0.00048
+                       0.00048        0.00000       -1.00000
+                       0.00000        1.00000        0.00000
+
+ ROTATION ANGLES from _TOP_CENTER_PART_ orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z   90.000          0.000          0.000 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          1.9182318e+01  5.4891950e+01  5.8093588e+01  MM
+

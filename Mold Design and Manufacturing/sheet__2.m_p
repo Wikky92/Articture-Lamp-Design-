@@ -1,0 +1,38 @@
+﻿                      MASS PROPERTIES OF THE PART SHEET__2
+
+                         VOLUME =  2.7842838e+04 MM^3
+                   SURFACE AREA =  1.1215566e+05 MM^2
+                        DENSITY =  1.4670000e-06 KILOGRAM / MM^3
+                           MASS =  4.0845443e-02 KILOGRAM 
+
+          CENTER OF GRAVITY with respect to _SHEET__2 coordinate frame:
+X   Y   Z           0.0000000e+00  3.5500000e+01  0.0000000e+00  MM
+
+     INERTIA with respect to _SHEET__2 coordinate frame:  (KILOGRAM * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         2.3416906e+02  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  5.8288095e+02  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  4.8597981e+02
+
+    INERTIA at CENTER OF GRAVITY with respect to _SHEET__2 coordinate frame:
+                                                           (KILOGRAM * MM^2)    
+INERTIA TENSOR:
+Ixx Ixy Ixz         1.8269359e+02  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  5.8288095e+02  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  4.3450434e+02
+
+                PRINCIPAL MOMENTS OF INERTIA:  (KILOGRAM * MM^2)
+I1  I2  I3          1.8269359e+02  4.3450434e+02  5.8288095e+02
+
+          ROTATION MATRIX from _SHEET__2 orientation to PRINCIPAL AXES:
+                       1.00000        0.00000        0.00000
+                       0.00000        0.00000       -1.00000
+                       0.00000        1.00000        0.00000
+
+     ROTATION ANGLES from _SHEET__2 orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z   90.000          0.000          0.000 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          6.6879013e+01  1.0313956e+02  1.1945879e+02  MM
+

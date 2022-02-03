@@ -1,0 +1,38 @@
+﻿                  MASS PROPERTIES OF THE PART BASE_TOP_PLATE_41
+
+                         VOLUME =  1.0644863e+05 MM^3
+                   SURFACE AREA =  9.2108238e+04 MM^2
+                        DENSITY =  1.2100000e-06 KILOGRAM / MM^3
+                           MASS =  1.2880285e-01 KILOGRAM 
+
+      CENTER OF GRAVITY with respect to _BASE_TOP_PLATE_4 coordinate frame:
+X   Y   Z           3.7495068e+00 -5.7211534e-01 -5.1491647e-01  MM
+
+ INERTIA with respect to _BASE_TOP_PLATE_4 coordinate frame:  (KILOGRAM * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         2.4198791e+02  2.5226223e-01  4.4328659e+00
+Iyx Iyy Iyz         2.5226223e-01  7.8376086e+02 -3.3839614e-01
+Izx Izy Izz         4.4328659e+00 -3.3839614e-01  1.0250962e+03
+
+INERTIA at CENTER OF GRAVITY with respect to _BASE_TOP_PLATE_4 coordinate frame:
+                                                               (KILOGRAM * MM^2)
+INERTIA TENSOR:
+Ixx Ixy Ixz         2.4191160e+02 -2.4039240e-02  4.1841885e+00
+Iyx Iyy Iyz        -2.4039240e-02  7.8191589e+02 -3.0045190e-01
+Izx Izy Izz         4.1841885e+00 -3.0045190e-01  1.0232432e+03
+
+                PRINCIPAL MOMENTS OF INERTIA:  (KILOGRAM * MM^2)
+I1  I2  I3          2.4188919e+02  7.8191552e+02  1.0232660e+03
+
+      ROTATION MATRIX from _BASE_TOP_PLATE_4 orientation to PRINCIPAL AXES:
+                       0.99999       -0.00003        0.00536
+                       0.00004        1.00000       -0.00125
+                      -0.00535        0.00125        0.99998
+
+ ROTATION ANGLES from _BASE_TOP_PLATE_4 orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z    0.071          0.307          0.000 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          4.3335669e+01  7.7914302e+01  8.9131566e+01  MM
+

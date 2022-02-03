@@ -1,0 +1,38 @@
+﻿                    MASS PROPERTIES OF THE PART RUBBER_PAD_3
+
+                         VOLUME =  7.0685835e+02 MM^3
+                   SURFACE AREA =  5.4192473e+02 MM^2
+                        DENSITY =  1.2300000e-09 KILOGRAM / MM^3
+                           MASS =  8.6943577e-07 KILOGRAM 
+
+        CENTER OF GRAVITY with respect to _RUBBER_PAD_3 coordinate frame:
+X   Y   Z           0.0000000e+00  0.0000000e+00  0.0000000e+00  MM
+
+   INERTIA with respect to _RUBBER_PAD_3 coordinate frame:  (KILOGRAM * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         1.3385688e-05  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  2.4452881e-05  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  1.3385689e-05
+
+  INERTIA at CENTER OF GRAVITY with respect to _RUBBER_PAD_3 coordinate frame:
+                                                             (KILOGRAM * MM^2)  
+INERTIA TENSOR:
+Ixx Ixy Ixz         1.3385688e-05  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  2.4452881e-05  0.0000000e+00
+Izx Izy Izz         0.0000000e+00  0.0000000e+00  1.3385689e-05
+
+                PRINCIPAL MOMENTS OF INERTIA:  (KILOGRAM * MM^2)
+I1  I2  I3          1.3385687e-05  1.3385689e-05  2.4452881e-05
+
+        ROTATION MATRIX from _RUBBER_PAD_3 orientation to PRINCIPAL AXES:
+                       0.00000        1.00000        0.00000
+                       0.00000        0.00000        1.00000
+                       1.00000        0.00000        0.00000
+
+   ROTATION ANGLES from _RUBBER_PAD_3 orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z  -90.000          0.000        -90.000 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          3.9237523e+00  3.9237526e+00  5.3033009e+00  MM
+
